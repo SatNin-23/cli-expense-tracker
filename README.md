@@ -1,4 +1,4 @@
-\# CLI Expense Tracker
+# CLI Expense Tracker
 
 
 
@@ -6,36 +6,35 @@ A simple command-line expense tracker built using Python.
 
 
 
-\## Features
+## Features
 
-\- Add expenses
+- Add expenses
 
-\- View expenses in a table
+- View expenses in a table
 
-\- Data stored using CSV files
-
-
-
-\## Technologies Used
-
-\- Python
-
-\- CSV file handling
-
-\- tabulate library
+- Data stored using CSV files
 
 
 
-\## How to Run
+## Technologies Used
 
-1\. Clone the repository
+- Python
 
-2\. Install dependencies: python -m pip install tabulate
+- CSV file handling
+
+- tabulate library
+
+
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies: python -m pip install tabulate
 3. Run the program: python main.py
 
 
 
-\## Purpose
+## Purpose
 
 This project was built to practice Python fundamentals and file handling.
 
